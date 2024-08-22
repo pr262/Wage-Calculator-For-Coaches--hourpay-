@@ -1,0 +1,14 @@
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\bin\Debug\net8.0\WageCalc.exe
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\bin\Debug\net8.0\WageCalc.deps.json
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\bin\Debug\net8.0\WageCalc.runtimeconfig.json
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\bin\Debug\net8.0\WageCalc.dll
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\bin\Debug\net8.0\WageCalc.pdb
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.AssemblyInfoInputs.cache
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.AssemblyInfo.cs
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.csproj.CoreCompileInputs.cache
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.dll
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\refint\WageCalc.dll
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.pdb
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\WageCalc.genruntimeconfig.cache
+C:\Users\elliot.poggirosenbe\source\repos\WageCalc\WageCalc\obj\Debug\net8.0\ref\WageCalc.dll
